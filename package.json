@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "geckodriver": "^1.16.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,7 +30,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.4"
-  }
+  "devDependencies": {}
 }
